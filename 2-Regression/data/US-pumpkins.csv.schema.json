@@ -1,0 +1,137 @@
+{
+  "fields": [
+    {
+      "name": "﻿City Name",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Type",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Package",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Variety",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Sub Variety",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Grade",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Date",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Low Price",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "High Price",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Mostly Low",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Mostly High",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Origin",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Origin District",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Item Size",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Color",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Environment",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Unit of Sale",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Quality",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Condition",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Appearance",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Storage",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Crop",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Repack",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Trans Mode",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
